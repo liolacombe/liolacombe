@@ -1,6 +1,6 @@
 ### Who ?
 Lionel Lacombe\
-Physicist, quantum chemist
+Physicist, Quantum Chemist
 ### Where ?
 Paris - France
 ### What ?
