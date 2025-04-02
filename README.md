@@ -1,9 +1,9 @@
-###Who
+### Who
 Lionel Lacombe
 Physicist, quantum chemist
-###Where
+### Where
 Paris - France
-###what
+### what
 I am using this account to share codes and notes. 
 My subjects are DFT, Green's functions for condensed matter physics, basic quantum physics.
 
