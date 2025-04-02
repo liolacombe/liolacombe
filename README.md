@@ -1,5 +1,5 @@
 ### Who ?
-Lionel Lacombe
+Lionel Lacombe\
 Physicist, quantum chemist
 ### Where ?
 Paris - France
